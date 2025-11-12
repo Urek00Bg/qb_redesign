@@ -7,3 +7,7 @@
 <p>
   <img src="https://raw.githubusercontent.com/Urek00Bg/qb_redesign/main/showcase/radial_menu.png" alt="Radial Menu Showcase" width="600"/>
 </p>
+<h2>QB_Menu</h2>
+<p>
+  <img src="https://raw.githubusercontent.com/Urek00Bg/qb_redesign/main/showcase/qb_menu.png" alt="Radial Menu Showcase" width="600"/>
+</p>
